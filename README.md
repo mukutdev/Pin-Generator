@@ -1,1 +1,1 @@
-# Pin-Generator
+# Pin-Generator Using javascript (practice purpose)
